@@ -17,17 +17,20 @@ El objetivo es aprender y documentar diferentes técnicas de manipulación, limp
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/Data-Analysis.git
-   cd Data-Analysis
+   git clone https://github.com/ByronArenilla/Premier_League
+   cd Premier_League
+
 
 
 2. Crear y activar un entorno virutal:
 ### En windows
 python -m venv .venv
+
 .venv\Scripts\activate
 
 ### En Linux/Mac
 python3 -m venv .venv
+
 source .venv/bin/activate
 
 ### Instalar las dependencias necesarias
